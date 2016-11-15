@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<LifeCount>4</LifeCount>
+	<LevelClearBonus>10000</LevelClearBonus>
+	<PointSoundFile>sound_0.mp3</PointSoundFile>
+	<PowerUpSoundFile>sound_1.mp3</PowerUpSoundFile>
+	<PowerUpDuration>5</PowerUpDuration>
+	<SpeedFactor>5</SpeedFactor>
+	<GridOn>true</GridOff>
+</config>
